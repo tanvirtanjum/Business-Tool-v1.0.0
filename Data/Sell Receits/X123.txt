@@ -1,0 +1,7 @@
+Purchase ID.: X123
+Product ID.: L101F
+Customer Name: Ahmed Imtiaz Mia
+Contact No.: 01515217821
+Buying Quantity: 15
+Price Per Unit: 36550 BDT
+Paid Ammount: 548250.0 BDT

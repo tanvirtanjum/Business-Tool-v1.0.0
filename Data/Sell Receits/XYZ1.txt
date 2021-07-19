@@ -1,0 +1,7 @@
+Purchase ID.: XYZ1
+Product ID.: L101H
+Customer Name: L101H
+Contact No.: 01515217829
+Buying Quantity: 9
+Price Per Unit: 81234 BDT
+Paid Ammount: 731106.0 BDT

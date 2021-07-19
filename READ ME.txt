@@ -1,0 +1,12 @@
+Updates:
+      1. Password Not Showing on incorrect inputs. It is remaining encrypted.
+      2. Price and Quantity of products can't be updated in (-)ve vaules.
+      3. Salesmen are now able see sales history.
+
+
+
+For Log-in:
+
+	(Admin)-----  (ID: BT-01AD, Pass: 12345) 
+	(Manager)-----  (ID: BT-01EP, Pass: 12345) 
+	(Salesman)-----  (ID: BT-01SM, Pass: 12345) 

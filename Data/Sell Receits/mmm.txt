@@ -1,0 +1,7 @@
+Purchase ID.: mmm
+Product ID.: L101F
+Customer Name: AMOR
+Contact No.: 1234567890
+Buying Quantity: 2
+Price Per Unit: 35000 BDT
+Paid Ammount: 70000.0 BDT
